@@ -6,4 +6,4 @@ I am continuously learning, strengthening my skills in Python and improving my u
 
 I am interested in contributing to projects where I can provide practical solutions, continue growing as a developer, and gain experience in real-world environments.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stifvalencia&theme=whatsapp-dark&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stifvalencia=&theme=dark)](https://git.io/streak-stats)
